@@ -6,9 +6,6 @@ import CentreCard      from './CentreCard';
 import DisplayCard     from './DisplayCard';
 import Logo            from './Logo.js';
 
-
-
-
 class Home extends React.Component {
 
   constructor(props) {
