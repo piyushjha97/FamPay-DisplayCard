@@ -111,7 +111,6 @@ class ImageCardDetail extends React.Component {
       render() {
 
         const { classes } = this.props;
-        const rules= this.state.rules;
         return (
         <div className  = {classes.card1}>
             <Card  onClick={() => history.push('/')}>  

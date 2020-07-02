@@ -16,7 +16,6 @@ const useStyles = makeStyles((theme) => ({
       display:'flex'
   },
   root: {
-     maxWidth:'500',  
      backgroundColor: '#E5E5E5', 
      maxWidth: '100%'
   },
